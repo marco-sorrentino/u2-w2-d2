@@ -8,5 +8,5 @@ hideSummerSection.addEventListener("click", () => {
 });
 
 cta.addEventListener("click", () => {
-  alert(cards.length);
+  alert(cards.length - 4);
 });
